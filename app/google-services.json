@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "19693605008",
+    "project_id": "nhac-2bbb1",
+    "storage_bucket": "nhac-2bbb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19693605008:android:0c0b6ae5f28264139c8815",
+        "android_client_info": {
+          "package_name": "com.example.doanmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiEIrvVOktSZjLDCsFQxfrxxeFk8T3kRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19693605008:android:17d8f5ccd50244a39c8815",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiEIrvVOktSZjLDCsFQxfrxxeFk8T3kRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19693605008:android:84ff948dae8b17ff9c8815",
+        "android_client_info": {
+          "package_name": "com.example.firebase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiEIrvVOktSZjLDCsFQxfrxxeFk8T3kRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19693605008:android:0b4ac7d885ceace59c8815",
+        "android_client_info": {
+          "package_name": "com.example.lythuyetmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiEIrvVOktSZjLDCsFQxfrxxeFk8T3kRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19693605008:android:9ddb146e9436ba8b9c8815",
+        "android_client_info": {
+          "package_name": "com.example.mobiledoan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiEIrvVOktSZjLDCsFQxfrxxeFk8T3kRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
